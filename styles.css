@@ -1,1 +1,142 @@
-/* css styles */
+/* Osnovni izgled */
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #263746;
+  background-color: #f2f7fb;
+}
+
+
+/* Gornje zaglavlje */
+
+.navbar {
+  background-color: #54748f !important;
+  border-bottom: none;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+}
+
+/* Naziv sajta */
+
+.navbar-brand {
+  color: #ffffff !important;
+  font-weight: 600;
+}
+
+/* Stavke menija */
+
+.navbar-nav .nav-link {
+  color: #f4f8fb !important;
+  font-weight: 500;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #ffffff !important;
+}
+
+/* Aktivna stranica */
+
+.navbar-nav .nav-link.active {
+  color: #ffffff !important;
+  font-weight: 700;
+}
+
+
+/* Pretraga u zaglavlju */
+
+.navbar .quarto-search-button,
+.navbar .bi-search {
+  color: #ffffff !important;
+}
+
+
+/* Veliki početni blok */
+
+.hero {
+  padding: 4rem 2rem;
+  margin-bottom: 2.5rem;
+  background-color: #dfeaf3;
+  border-radius: 12px;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 0.8rem;
+  color: #263746;
+}
+
+.hero p {
+  font-size: 1.2rem;
+  color: #435a6c;
+  max-width: 750px;
+}
+
+
+/* Kartice */
+
+.home-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+  margin-bottom: 3rem;
+}
+
+.home-card {
+  padding: 1.8rem;
+  border: 1px solid #d4e0e8;
+  border-radius: 10px;
+  background-color: #ffffff;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.home-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 22px rgba(54, 79, 99, 0.12);
+}
+
+.home-card h2 {
+  margin-top: 0;
+  font-size: 1.4rem;
+  color: #304d63;
+}
+
+.home-card p {
+  color: #526675;
+}
+
+.home-card a {
+  color: #3977a3;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.home-card a:hover {
+  color: #245978;
+}
+
+
+/* Naslovi na ostalim stranicama */
+
+h1,
+h2,
+h3 {
+  color: #304d63;
+}
+
+
+/* Mobilni prikaz */
+
+@media (max-width: 768px) {
+
+  .home-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .hero {
+    padding: 2.5rem 1.5rem;
+  }
+
+  .hero h1 {
+    font-size: 2.2rem;
+  }
+}

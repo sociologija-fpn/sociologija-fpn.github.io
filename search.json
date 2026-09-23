@@ -1,10 +1,87 @@
 [
   {
+    "objectID": "rezultati.html",
+    "href": "rezultati.html",
+    "title": "Rezultati",
+    "section": "",
+    "text": "Na ovoj stranici se objavljuju rezultati ispita i kolokvijuma."
+  },
+  {
+    "objectID": "rezultati.html#rezultati-po-godinama",
+    "href": "rezultati.html#rezultati-po-godinama",
+    "title": "Rezultati",
+    "section": "Rezultati po godinama",
+    "text": "Rezultati po godinama"
+  },
+  {
+    "objectID": "rezultati.html#section",
+    "href": "rezultati.html#section",
+    "title": "Rezultati",
+    "section": "2026",
+    "text": "2026\nRezultati ispita i predispitnih obaveza u 2026. godini."
+  },
+  {
+    "objectID": "rezultati.html#section-1",
+    "href": "rezultati.html#section-1",
+    "title": "Rezultati",
+    "section": "2025",
+    "text": "2025\nRezultati ispita i predispitnih obaveza u 2025. godini."
+  },
+  {
+    "objectID": "rezultati.html#section-2",
+    "href": "rezultati.html#section-2",
+    "title": "Rezultati",
+    "section": "2024",
+    "text": "2024\nRezultati ispita i predispitnih obaveza u 2024. godini."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "sajt-sociologija",
+    "title": "Informacije za studente",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Informacije za studente o nastavi, ispitima, rezultatima i konsultacijama."
+  },
+  {
+    "objectID": "index.html#obaveštenja",
+    "href": "index.html#obaveštenja",
+    "title": "Informacije za studente",
+    "section": "Obaveštenja",
+    "text": "Obaveštenja\nAktuelne informacije o nastavi, ispitnim rokovima i drugim obavezama.\nPregledaj obaveštenja →"
+  },
+  {
+    "objectID": "index.html#rezultati",
+    "href": "index.html#rezultati",
+    "title": "Informacije za studente",
+    "section": "Rezultati",
+    "text": "Rezultati\nRezultati ispita, kolokvijuma i drugih predispitnih obaveza.\nPogledaj rezultate →"
+  },
+  {
+    "objectID": "index.html#konsultacije",
+    "href": "index.html#konsultacije",
+    "title": "Informacije za studente",
+    "section": "Konsultacije",
+    "text": "Konsultacije\nTermini konsultacija i informacije o načinu održavanja.\nInformacije o konsultacijama →"
+  },
+  {
+    "objectID": "index.html#materijali",
+    "href": "index.html#materijali",
+    "title": "Informacije za studente",
+    "section": "Materijali",
+    "text": "Materijali\nNastavni materijali i dokumenti relevantni za studente.\nOtvori materijale →"
+  },
+  {
+    "objectID": "index.html#aktuelno",
+    "href": "index.html#aktuelno",
+    "title": "Informacije za studente",
+    "section": "Aktuelno",
+    "text": "Aktuelno"
+  },
+  {
+    "objectID": "index.html#najnovija-obaveštenja-i-važne-informacije-biće-istaknute-na-ovom-mestu.",
+    "href": "index.html#najnovija-obaveštenja-i-važne-informacije-biće-istaknute-na-ovom-mestu.",
+    "title": "Informacije za studente",
+    "section": "Najnovija obaveštenja i važne informacije biće istaknute na ovom mestu.",
+    "text": "Najnovija obaveštenja i važne informacije biće istaknute na ovom mestu."
   },
   {
     "objectID": "about.html",
@@ -12,5 +89,26 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "konsultacije.html",
+    "href": "konsultacije.html",
+    "title": "Konsultacije",
+    "section": "",
+    "text": "Termin konsultacija se dogovara putem mejla."
+  },
+  {
+    "objectID": "konsultacije.html#termin-konsultacija",
+    "href": "konsultacije.html#termin-konsultacija",
+    "title": "Konsultacije",
+    "section": "",
+    "text": "Termin konsultacija se dogovara putem mejla."
+  },
+  {
+    "objectID": "obavestenja.html#arhiva-obaveštenja",
+    "href": "obavestenja.html#arhiva-obaveštenja",
+    "title": "Obaveštenja",
+    "section": "Arhiva obaveštenja",
+    "text": "Arhiva obaveštenja"
   }
 ]
